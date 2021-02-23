@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  facethighlight: facethighlight.html
+  fulltext: fulltext.html
+  rplos: rplos.html
+last_built: 2021-07-10T14:15Z
+urls:
+  reference: https://docs.ropensci.org/rplos/reference
+  article: https://docs.ropensci.org/rplos/articles
+

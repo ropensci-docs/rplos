@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bcc1362e7922118ece074ddbbae2165131717816",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-02-23 19:49:14",
+    "files": 1,
+    "merge": false,
+    "message": "remove macos latest R/devel from gh actions\n"
+  },
+  "remote": "https://github.com/ropensci/rplos",
+  "pkg": "rplos"
+}
